@@ -1,0 +1,36 @@
+{
+  "name": "game-api",
+  "version": "1.0.0",
+  "description": "Desenvolvimento do deploy",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo-Oliveira-Silva/game-api.git"
+  },
+  "dependencies": {
+    "@hapi/boom": "9.1.0",
+    "body-parser": "1.19.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-async-errors": "3.1.1",
+    "joi": "17.6.0"
+  },
+  "devDependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.4.0",
+    "nodemon": "2.0.4",
+    "sinon": "11.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilo-Oliveira-Silva/game-api/issues"
+  },
+  "homepage": "https://github.com/Danilo-Oliveira-Silva/game-api#readme"
+}
