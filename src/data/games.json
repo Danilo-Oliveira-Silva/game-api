@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Valorant",
+        "developer": "Riot Games",
+        "platform": "Windows 7/10/11"
+    },
+    {
+        "name": "Counter Strike Global Offensive",
+        "developer": "Valve",
+        "platform": "Windows 7/10/11"
+    },
+    {
+        "name": "League of Legends",
+        "developer": "Riot Games",
+        "platform": "Windows 7/10/11"
+    }
+]
